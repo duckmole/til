@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
@@ -25,6 +25,9 @@ _2 TILs and counting..._
 
 - [Algolia plugin](jekyll/algolia-plugin.md)
 
+### Github
+
+- [GPG signature verification](github/gpg-signature-verification.md)
 ### Thanks
 
 - [Josh Branchaud](https://github.com/jbranchaud)
